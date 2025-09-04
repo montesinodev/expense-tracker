@@ -32,30 +32,36 @@ A modern, responsive expense tracking application built with React and Tailwind 
 1. Clone the repository
 ```bash
 git clone https://github.com/montesinodev/expense-tracker.git
+```
 
 2. Install dependencies
 ```bash
 npm install
+```
 
 3. Start the development server
 ```bash
 npm run dev
+```
 
 4. Open http://localhost:5173 in your browser
 
-🎯 Usage
-Add Transactions: Enter description, amount, and type (income/expense)
+## 🎯 Usage  
+- **Add Transactions:** Enter description, amount, and type (income/expense) 
 
-View Summary: See your balance, total income, and total expenses
+- **View Summary:** See your balance, total income, and total expenses 
 
-Toggle Theme: Switch between light and dark mode
+- **Toggle Theme:** Switch between light and dark mode 
 
-Manage Data: All data automatically saves to local storage
+- **Manage Data:** All data automatically saves to local storage 
 
 📸 Screenshots
-[Light Mode](./src/assets/light_mode_screenshot.png)  
 
-[Dark Mode](./src/assets/dark_mode_screenshot.png)
+### Light Mode
+![Light mode](./src/assets/light_mode_screenshot.png)
+
+### Dark Mode
+![Dark mode](./src/assets/dark_mode_screenshot.png)
 
 🏗️ Project Structure
 
@@ -72,22 +78,23 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+```
 
-🌟 Why This Project?
+🌟 Why This Project?  
 
 This project demonstrates:
 
-Modern React development with hooks
+* Modern React development with hooks
 
-Responsive UI design with Tailwind CSS
+* Responsive UI design with Tailwind CSS
 
-Dark mode implementation
+* Dark mode implementation
 
-Local storage usage for data persistence
+* Local storage usage for data persistence
 
-Clean component architecture
+* Clean component architecture
 
-Professional deployment practices
+* Professional deployment practices
 
 
 🤝 Contributing
