@@ -16,9 +16,9 @@ A modern, responsive expense tracking application built with React and Tailwind 
 - 🗑️ **Easy Deletion** - Remove transactions with one click
 - ⚡ **Fast Performance** - Built with Vite for optimal speed
 
-## 🚀 Live Demo
+## 🚀 Live App
 
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://your-vercel-link.vercel.app)
+[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=for-the-badge&logo=vercel)](https://vercel.com/marlon-montesinos-projects/expense-tracker)
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +55,7 @@ npm run dev
 
 - **Manage Data:** All data automatically saves to local storage 
 
-📸 Screenshots
+## 📸 Screenshots
 
 ### Light Mode
 ![Light mode](./src/assets/light_mode_screenshot.png)
@@ -63,7 +63,7 @@ npm run dev
 ### Dark Mode
 ![Dark mode](./src/assets/dark_mode_screenshot.png)
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 
 ```text
 src/
@@ -80,7 +80,7 @@ src/
 └── index.css
 ```
 
-🌟 Why This Project?  
+## 🌟 Why This Project?  
 
 This project demonstrates:
 
@@ -97,11 +97,11 @@ This project demonstrates:
 * Professional deployment practices
 
 
-🤝 Contributing
+## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check issues page.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues](https://github.com/montesinodev/expense-tracker/issues) page.
 
-⭐ Star this repo if you found it helpful!
+## ⭐ Star this repo if you found it helpful!
 
 
 
