@@ -1,19 +1,21 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + React</title>
-    
+
     <!-- Theme detection script -->
     <script>
-      (function() {
+      (function () {
         const savedTheme = localStorage.getItem("theme");
-        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        
+        const prefersDark = window.matchMedia(
+          "(prefers-color-scheme: dark)"
+        ).matches;
+
         const theme = savedTheme || (prefersDark ? "dark" : "light");
-        
+
         if (theme === "dark") {
           document.documentElement.classList.add("dark");
         } else {
@@ -25,6 +27,6 @@
   </head>
   <body>
     <div id="root"></div>
-<script type="module" src="/expense-tracker/src/main.jsx"></script>
+    <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
