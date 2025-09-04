@@ -18,7 +18,7 @@ A modern, responsive expense tracking application built with React and Tailwind 
 
 ## 🚀 Live App
 
-[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=for-the-badge&logo=vercel)](https://vercel.com/marlon-montesinos-projects/expense-tracker)
+[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=for-the-badge&logo=vercel)](https://expense-tracker-gray-two.vercel.app/)
 
 ## 🛠️ Tech Stack
 
